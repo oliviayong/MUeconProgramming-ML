@@ -1,3 +1,3 @@
 # MUeconProgramming-ML
-2233
-233333333
+Neural Network from scratch:
+http://www.wildml.com/2015/09/implementing-a-neural-network-from-scratch/
